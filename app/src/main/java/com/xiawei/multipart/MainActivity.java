@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         Animal animal1 = new Animal();
         animal1.type = Animal.KOGNBAI;
         Kongbai kongbai1 = new Kongbai();
-        kongbai1.name = "这是空白一";
+        kongbai1.name = "这是空白1";
         animal1.data = kongbai1;
         mDatas.add(animal1);
 
@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         Animal animal2 = new Animal();
         animal2.type = Animal.KOGNBAI;
         Kongbai kongbai2 = new Kongbai();
-        kongbai2.name = "这是空白二";
+        kongbai2.name = "这是空白2";
         animal2.data = kongbai2;
         mDatas.add(animal2);
 
@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
         Animal animal3 = new Animal();
         animal3.type = Animal.KOGNBAI;
         Kongbai kongbai3 = new Kongbai();
-        kongbai3.name = "这是空白一";
+        kongbai3.name = "这是空白3";
         animal3.data = kongbai3;
         mDatas.add(animal3);
 

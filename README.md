@@ -1,10 +1,10 @@
 ##对 `ListView` 的 `BaseAdapter` 简单的封装，实现多布局样式
 
-####效果预览图
+#### 效果预览图
 
 ![](http://upload-images.jianshu.io/upload_images/4043475-011fd7cd79eb9677.gif?imageMogr2/auto-orient/strip)
 
-####实现步骤
+#### 实现步骤
 1. 初始化数据
 	
 	加入从服务器获取数据，对数据进行封装。
