@@ -1,4 +1,4 @@
-##对 `ListView` 的 `BaseAdapter` 简单的封装，实现多布局样式
+## 对 `ListView` 的 `BaseAdapter` 简单的封装，实现多布局样式
 
 #### 效果预览图
 
